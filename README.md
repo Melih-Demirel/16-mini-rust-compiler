@@ -12,4 +12,4 @@
     - break (only working if loop is in current scope)
     - block expressions (not working fully)
 
-Project build on a MacOs, wont work on Windows because of different Bison versions.
+Project build on MacOs, wont work on Windows because of different Bison versions.
